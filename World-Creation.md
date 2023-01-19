@@ -17,7 +17,7 @@ The remainder of this guide will review the aformentioned definitions of a World
 
 ## Environment
 
-This defines the topology of the world as well as the infrastructure. It's best to keep things small and contained to keep the Epics in scope but any size is possible. 
+This defines the topology of the world as well as the infrastructure. It's best to keep things small and contained to keep the Epics in scope. However, any size is possible as long as the **WM** can maintain it. 
 
 Environment matters in Keepsake. Different positions can mean the difference between failure and success. 
 
@@ -41,6 +41,6 @@ These are simple goals set out by NPCs not directly involved with any epic.
 
 Epics are a string of specific goals that need to be acheived by a party of characters. 
 
-## Epochs or Ages
+## Epochs and Ages
 
 All previously mentioned attributes of a world can be changed by Epochs and/or Ages. It is the only way to fundamentally chage a world. 
